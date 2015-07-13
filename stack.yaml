@@ -1,0 +1,7 @@
+flags: {}
+packages:
+- pkg1/
+- pkg2/
+- iUseConduit/
+extra-deps: []
+resolver: lts-2.18
